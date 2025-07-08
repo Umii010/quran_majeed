@@ -1,26 +1,22 @@
 [
   {
     "id": 53,
-    "title": "Additional Dua 1",
+    "title": "الدعاء الإضافي الأول",
     "arabic": "الدعاء الإضافي الأول",
     "translation": "Additional supplication 1",
-    "benefits": "Benefits of this dua...",
-    "rewards": "Rewards for reciting...",
-    "references": "Bukhari/Muslim/etc.",
-    "times": "Recommended times...",
+    "benefits": "Example benefits text",
+    "rewards": "Example rewards text",
+    "references": "Example reference",
+    "times": "Morning/Evening",
     "category": "Morning/Evening",
     "rewardLevel": "Highly Rewarding"
   },
   {
     "id": 54,
-    "title": "Additional Dua 2",
+    "title": "الدعاء الإضافي الثاني",
     "arabic": "الدعاء الإضافي الثاني",
     "translation": "Additional supplication 2",
-    "benefits": "Benefits of this dua...",
-    "rewards": "Rewards for reciting...",
-    "references": "Bukhari/Muslim/etc.",
-    "times": "Recommended times...",
     "category": "Prayer",
-    "rewardLevel": "Essential"
+    "rewardLevel": "Recommended"
   }
 ]
